@@ -16,5 +16,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgcuber24&layout=compact" alt="sgcuber24" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sgcuber24&show_icons=true" alt="sgcuber24" /></p>
