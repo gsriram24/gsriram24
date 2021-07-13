@@ -2,8 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgcuber24" alt="sgcuber24" /> </p>
 
+- 🔭 I’m currently working at [BETSOL](https://www.betsol.com/) as an Associate Software Engineer
 
-- 👨‍💻 All of my projects are available at [https://www.gsriram.dev](https://www.gsriram.dev)
+- 👨‍💻 Find my projects at [https://www.gsriram.dev](https://www.gsriram.dev)
 
 - 💬 Ask me about **Full Stack Development, Deep Learning, Gaming and Speedcubing**
 
