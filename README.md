@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm G Sriram</h1>
+<h1 align="center">Hi there 👋, I'm Sriram</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgcuber24" alt="sgcuber24" /> </p>
 
