@@ -1,12 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Sriram</h1>
+<h1 align="center">Hi there, I'm Sriram</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgcuber24" alt="sgcuber24" /> </p>
 
-- 🔭 I’m currently working at [BETSOL](https://www.betsol.com/) as an Associate Software Engineer
+- 🔭 I’m currently working at [BETSOL](https://www.betsol.com/) a Software Engineer
 
 - 👨‍💻 Find my projects at [https://www.gsriram.dev](https://www.gsriram.dev)
 
-- 💬 Ask me about **Full Stack Development, Deep Learning, Gaming and Speedcubing**
+- 💬 Ask me about **Full Stack Development, Gaming and Speedcubing**
 
 - 📫 Reach me at **gsriram2403@gmail.com**
 
